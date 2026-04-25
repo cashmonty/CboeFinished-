@@ -25,6 +25,9 @@ pip install -r requirements.txt
 copy .env.example .env
 ```
 
+If `WATCHLIST` is left blank, the app uses a built-in 200-name liquid universe
+covering major U.S. ETFs and large-cap option names.
+
 ## Run with mock data first
 
 ```powershell
